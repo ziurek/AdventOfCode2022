@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b21ada0-a532-48b1-b6fd-f20e65e62f16": {
+      "ProjectGuid": "6b21ada0-a532-48b1-b6fd-f20e65e62f16",
+      "DisplayName": "AdventOfCode_1",
+      "ColorIndex": 0
+    },
+    "16156e4f-b0fe-4f1f-ba70-12b29e36e14d": {
+      "ProjectGuid": "16156e4f-b0fe-4f1f-ba70-12b29e36e14d",
+      "DisplayName": "AdventOfCode_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

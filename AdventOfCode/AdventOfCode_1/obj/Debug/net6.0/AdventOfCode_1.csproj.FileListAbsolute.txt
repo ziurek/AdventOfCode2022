@@ -1,0 +1,16 @@
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\AdventOfCode_1.exe
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\AdventOfCode_1.deps.json
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\AdventOfCode_1.runtimeconfig.json
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\AdventOfCode_1.dll
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\ref\AdventOfCode_1.dll
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\AdventOfCode_1.pdb
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.csproj.AssemblyReference.cache
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.AssemblyInfoInputs.cache
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.AssemblyInfo.cs
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.csproj.CoreCompileInputs.cache
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.dll
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\ref\AdventOfCode_1.dll
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.pdb
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\obj\Debug\net6.0\AdventOfCode_1.genruntimeconfig.cache
+D:\advent_of_code\AdventOfCode_1\AdventOfCode_1\bin\Debug\net6.0\dane_1.txt
